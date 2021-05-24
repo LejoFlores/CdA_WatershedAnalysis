@@ -1,2 +1,4 @@
 .ipynb_checkpoints
+*.nc
+*.nc.aux.xml
 
