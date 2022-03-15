@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 *.nc
 *.nc.aux.xml
+.DS_Store
 
